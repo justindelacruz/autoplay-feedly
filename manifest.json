@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Feedly Helper Chrome Extension",
+  "description": "Chrome Extension that makes life a little better in Feedly.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://feedly.com",
+        "https://feedly.com/*",
+        "https://www.feedly.com/*"
+      ],
+      "js": ["js/jquery-2.1.4.min.js", "js/videoHelper.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
