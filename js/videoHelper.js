@@ -43,6 +43,7 @@
 
             Array.prototype.forEach.call(videos, function(el, i) {
                 $(el).attr("controls", "controls");
+                $(el).attr("style", "width: 100% !important; height: auto !important;")
             });
         };
 
