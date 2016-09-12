@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Autoplay Videos for Feedly",
-  "description": "Autoplay videos within Feedly. Convenient for feeds that post many embedded videos.",
+  "description": "Automatically play videos and reveal video controls in Feedly. Convenient for feeds that post many embedded videos.",
   "version": "1.2",
   "author": "Justin Dela Cruz",
   "content_scripts": [
