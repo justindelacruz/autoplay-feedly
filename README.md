@@ -1,8 +1,8 @@
 # Autoplay Videos for Feedly
 
-Chrome Extension to autoplay videos from within Feedly. Useful when you subscribe to feeds that post embedded video. 
+Adds video controls and automatically plays videos from within Feedly. 
 
-By default, Feedly doesn't play or show controls for videos, forcing users to click through to view. This extension adds video controls and starts playing the video automatically.
+This is particularly useful for feeds that post many embedded videos, because Feedly doesn't play or show controls for videos by default, forcing users to click through to view.
 
 ## How to use
 
