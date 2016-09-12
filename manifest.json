@@ -8,7 +8,9 @@
     {
       "matches": [
         "https://feedly.com/*",
-        "https://www.feedly.com/*"
+        "https://www.feedly.com/*",
+        "http://feedly.com/*",
+        "http://www.feedly.com/*"
       ],
       "js": ["js/jquery-2.1.4.min.js", "js/videoHelper.js"],
       "run_at": "document_end"
