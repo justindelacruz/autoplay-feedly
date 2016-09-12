@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Feedly Helper Chrome Extension",
-  "description": "Chrome Extension that makes life a little better in Feedly.",
-  "version": "1.1",
+  "name": "Autoplay Videos for Feedly",
+  "description": "Chrome Extension to autoplay videos from within Feedly. Useful when you subscribe to feeds that post embedded video.",
+  "version": "1.2",
   "content_scripts": [
     {
       "matches": [
