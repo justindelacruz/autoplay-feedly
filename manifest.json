@@ -1,9 +1,10 @@
 {
   "manifest_version": 2,
-
   "name": "Autoplay Videos for Feedly",
-  "description": "Chrome Extension to autoplay videos from within Feedly. Useful when you subscribe to feeds that post embedded video.",
+  "default_locale": "en",
+  "description": "Autoplay videos within Feedly. Convenient for feeds that post many embedded videos.",
   "version": "1.2",
+  "author": "Justin Dela Cruz",
   "content_scripts": [
     {
       "matches": [
