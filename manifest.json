@@ -15,5 +15,8 @@
       "js": ["js/jquery-2.1.4.min.js", "js/videoHelper.js"],
       "run_at": "document_end"
     }
-  ]
+  ],
+  "icons": {
+    "128": "icon128.png"
+  }
 }
